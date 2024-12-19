@@ -1,5 +1,140 @@
 [
   {
+    "id": 101,
+    "title": "Video Title 1",
+    "genre": "Technology",
+    "description": "This is the description for Video 1. It is a detailed look into topic 1.",
+    "duration": "3:07",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+1",
+    "url": "https://videos.pexels.com/video-files/2110972/2110972-sd_640_360_30fps.mp4"
+  },
+  {
+    "id": 102,
+    "title": "Video Title 2",
+    "genre": "Music",
+    "description": "This is the description for Video 2. It is a detailed look into topic 2.",
+    "duration": "4:14",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+2",
+    "url": "https://videos.pexels.com/video-files/3209763/3209763-sd_640_360_25fps.mp4"
+  },
+  {
+    "id": 103,
+    "title": "Video Title 3",
+    "genre": "Education",
+    "description": "This is the description for Video 3. It is a detailed look into topic 3.",
+    "duration": "5:21",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+3",
+    "url": "https://videos.pexels.com/video-files/3201138/3201138-sd_640_360_25fps.mp4"
+  },
+  {
+    "id": 104,
+    "title": "Video Title 4",
+    "genre": "Travel",
+    "description": "This is the description for Video 4. It is a detailed look into topic 4.",
+    "duration": "6:28",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+4",
+    "url": "https://videos.pexels.com/video-files/3770033/3770033-sd_640_360_25fps.mp4"
+  },
+  {
+    "id": 105,
+    "title": "Video Title 5",
+    "genre": "Nature",
+    "description": "This is the description for Video 5. It is a detailed look into topic 5.",
+    "duration": "2:35",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+5",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4"
+  },
+  {
+    "id": 106,
+    "title": "Video Title 6",
+    "genre": "Technology",
+    "description": "This is the description for Video 6. It is a detailed look into topic 6.",
+    "duration": "3:42",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+6",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_6mb.mp4"
+  },
+  {
+    "id": 107,
+    "title": "Video Title 7",
+    "genre": "Music",
+    "description": "This is the description for Video 7. It is a detailed look into topic 7.",
+    "duration": "4:49",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+7",
+    "url": "https://videos.pexels.com/video-files/4301618/4301618-sd_640_360_30fps.mp4"
+  },
+  {
+    "id": 108,
+    "title": "Video Title 8",
+    "genre": "Education",
+    "description": "This is the description for Video 8. It is a detailed look into topic 8.",
+    "duration": "5:56",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+8",
+    "url": "https://videos.pexels.com/video-files/3555398/3555398-sd_640_360_30fps.mp4"
+  },
+  {
+    "id": 109,
+    "title": "Video Title 9",
+    "genre": "Travel",
+    "description": "This is the description for Video 9. It is a detailed look into topic 9.",
+    "duration": "6:03",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+9",
+    "url": "https://videos.pexels.com/video-files/2376796/2376796-sd_640_360_24fps.mp4"
+  },
+  {
+    "id": 110,
+    "title": "Video Title 10",
+    "genre": "Nature",
+    "description": "This is the description for Video 10. It is a detailed look into topic 10.",
+    "duration": "2:10",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+10",
+    "url": "https://videos.pexels.com/video-files/3198163/3198163-sd_640_360_25fps.mp4"
+  },
+  {
+    "id": 111,
+    "title": "Video Title 11",
+    "genre": "Technology",
+    "description": "This is the description for Video 11. It is a detailed look into topic 11.",
+    "duration": "3:17",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+11",
+    "url": "https://videos.pexels.com/video-files/3444433/3444433-sd_640_360_30fps.mp4"
+  },
+  {
+    "id": 112,
+    "title": "Video Title 12",
+    "genre": "Music",
+    "description": "This is the description for Video 12. It is a detailed look into topic 12.",
+    "duration": "4:24",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+12",
+    "url": "https://videos.pexels.com/video-files/3051691/3051691-sd_640_360_24fps.mp4"
+  },
+  {
+    "id": 113,
+    "title": "Video Title 13",
+    "genre": "Education",
+    "description": "This is the description for Video 13. It is a detailed look into topic 13.",
+    "duration": "5:31",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+13",
+    "url": "https://videos.pexels.com/video-files/3769953/3769953-sd_640_360_25fps.mp4"
+  },
+  {
+    "id": 114,
+    "title": "Video Title 14",
+    "genre": "Travel",
+    "description": "This is the description for Video 14. It is a detailed look into topic 14.",
+    "duration": "6:38",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+14",
+    "url": "https://videos.pexels.com/video-files/3843423/3843423-sd_506_960_25fps.mp4"
+  },
+  {
+    "id": 115,
+    "title": "Video Title 15",
+    "genre": "Nature",
+    "description": "This is the description for Video 15. It is a detailed look into topic 15.",
+    "duration": "2:45",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+15",
+    "url": "https://videos.pexels.com/video-files/3198252/3198252-sd_640_360_25fps.mp4"
+  },
+  {
     "id": 1,
     "title": "Video Title 1",
     "genre": "Technology",
@@ -127,6 +262,276 @@
   },
   {
     "id": 15,
+    "title": "Video Title 15",
+    "genre": "Nature",
+    "description": "This is the description for Video 15. It is a detailed look into topic 15.",
+    "duration": "2:45",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+15",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_15mb.mp4"
+  },
+  {
+    "id": 16,
+    "title": "Video Title 1",
+    "genre": "Technology",
+    "description": "This is the description for Video 1. It is a detailed look into topic 1.",
+    "duration": "3:07",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+1",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+  },
+  {
+    "id": 17,
+    "title": "Video Title 2",
+    "genre": "Music",
+    "description": "This is the description for Video 2. It is a detailed look into topic 2.",
+    "duration": "4:14",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+2",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4"
+  },
+  {
+    "id": 18,
+    "title": "Video Title 3",
+    "genre": "Education",
+    "description": "This is the description for Video 3. It is a detailed look into topic 3.",
+    "duration": "5:21",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+3",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_3mb.mp4"
+  },
+  {
+    "id": 19,
+    "title": "Video Title 4",
+    "genre": "Travel",
+    "description": "This is the description for Video 4. It is a detailed look into topic 4.",
+    "duration": "6:28",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+4",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_4mb.mp4"
+  },
+  {
+    "id": 20,
+    "title": "Video Title 5",
+    "genre": "Nature",
+    "description": "This is the description for Video 5. It is a detailed look into topic 5.",
+    "duration": "2:35",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+5",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4"
+  },
+  {
+    "id": 21,
+    "title": "Video Title 6",
+    "genre": "Technology",
+    "description": "This is the description for Video 6. It is a detailed look into topic 6.",
+    "duration": "3:42",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+6",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_6mb.mp4"
+  },
+  {
+    "id": 22,
+    "title": "Video Title 7",
+    "genre": "Music",
+    "description": "This is the description for Video 7. It is a detailed look into topic 7.",
+    "duration": "4:49",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+7",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_7mb.mp4"
+  },
+  {
+    "id": 23,
+    "title": "Video Title 8",
+    "genre": "Education",
+    "description": "This is the description for Video 8. It is a detailed look into topic 8.",
+    "duration": "5:56",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+8",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_8mb.mp4"
+  },
+  {
+    "id": 24,
+    "title": "Video Title 9",
+    "genre": "Travel",
+    "description": "This is the description for Video 9. It is a detailed look into topic 9.",
+    "duration": "6:03",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+9",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_9mb.mp4"
+  },
+  {
+    "id":25,
+    "title": "Video Title 10",
+    "genre": "Nature",
+    "description": "This is the description for Video 10. It is a detailed look into topic 10.",
+    "duration": "2:10",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+10",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4"
+  },
+  {
+    "id": 26,
+    "title": "Video Title 11",
+    "genre": "Technology",
+    "description": "This is the description for Video 11. It is a detailed look into topic 11.",
+    "duration": "3:17",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+11",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_11mb.mp4"
+  },
+  {
+    "id": 27,
+    "title": "Video Title 12",
+    "genre": "Music",
+    "description": "This is the description for Video 12. It is a detailed look into topic 12.",
+    "duration": "4:24",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+12",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_12mb.mp4"
+  },
+  {
+    "id": 28,
+    "title": "Video Title 13",
+    "genre": "Education",
+    "description": "This is the description for Video 13. It is a detailed look into topic 13.",
+    "duration": "5:31",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+13",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_13mb.mp4"
+  },
+  {
+    "id": 29,
+    "title": "Video Title 14",
+    "genre": "Travel",
+    "description": "This is the description for Video 14. It is a detailed look into topic 14.",
+    "duration": "6:38",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+14",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_14mb.mp4"
+  },
+  {
+    "id": 30,
+    "title": "Video Title 15",
+    "genre": "Nature",
+    "description": "This is the description for Video 15. It is a detailed look into topic 15.",
+    "duration": "2:45",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+15",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_15mb.mp4"
+  },
+  {
+    "id": 31,
+    "title": "Video Title 1",
+    "genre": "Technology",
+    "description": "This is the description for Video 1. It is a detailed look into topic 1.",
+    "duration": "3:07",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+1",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4"
+  },
+  {
+    "id": 32,
+    "title": "Video Title 2",
+    "genre": "Music",
+    "description": "This is the description for Video 2. It is a detailed look into topic 2.",
+    "duration": "4:14",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+2",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_2mb.mp4"
+  },
+  {
+    "id": 33,
+    "title": "Video Title 3",
+    "genre": "Education",
+    "description": "This is the description for Video 3. It is a detailed look into topic 3.",
+    "duration": "5:21",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+3",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_3mb.mp4"
+  },
+  {
+    "id": 34,
+    "title": "Video Title 4",
+    "genre": "Travel",
+    "description": "This is the description for Video 4. It is a detailed look into topic 4.",
+    "duration": "6:28",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+4",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_4mb.mp4"
+  },
+  {
+    "id": 35,
+    "title": "Video Title 5",
+    "genre": "Nature",
+    "description": "This is the description for Video 5. It is a detailed look into topic 5.",
+    "duration": "2:35",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+5",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_5mb.mp4"
+  },
+  {
+    "id": 36,
+    "title": "Video Title 6",
+    "genre": "Technology",
+    "description": "This is the description for Video 6. It is a detailed look into topic 6.",
+    "duration": "3:42",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+6",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_6mb.mp4"
+  },
+  {
+    "id": 37,
+    "title": "Video Title 7",
+    "genre": "Music",
+    "description": "This is the description for Video 7. It is a detailed look into topic 7.",
+    "duration": "4:49",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+7",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_7mb.mp4"
+  },
+  {
+    "id": 38,
+    "title": "Video Title 8",
+    "genre": "Education",
+    "description": "This is the description for Video 8. It is a detailed look into topic 8.",
+    "duration": "5:56",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+8",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_8mb.mp4"
+  },
+  {
+    "id": 39,
+    "title": "Video Title 9",
+    "genre": "Travel",
+    "description": "This is the description for Video 9. It is a detailed look into topic 9.",
+    "duration": "6:03",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+9",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_9mb.mp4"
+  },
+  {
+    "id": 40,
+    "title": "Video Title 10",
+    "genre": "Nature",
+    "description": "This is the description for Video 10. It is a detailed look into topic 10.",
+    "duration": "2:10",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+10",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_10mb.mp4"
+  },
+  {
+    "id": 41,
+    "title": "Video Title 11",
+    "genre": "Technology",
+    "description": "This is the description for Video 11. It is a detailed look into topic 11.",
+    "duration": "3:17",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+11",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_11mb.mp4"
+  },
+  {
+    "id": 42,
+    "title": "Video Title 12",
+    "genre": "Music",
+    "description": "This is the description for Video 12. It is a detailed look into topic 12.",
+    "duration": "4:24",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+12",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_12mb.mp4"
+  },
+  {
+    "id": 43,
+    "title": "Video Title 13",
+    "genre": "Education",
+    "description": "This is the description for Video 13. It is a detailed look into topic 13.",
+    "duration": "5:31",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+13",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_13mb.mp4"
+  },
+  {
+    "id": 44,
+    "title": "Video Title 14",
+    "genre": "Travel",
+    "description": "This is the description for Video 14. It is a detailed look into topic 14.",
+    "duration": "6:38",
+    "thumbnail": "https://via.placeholder.com/150?text=Thumbnail+14",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_14mb.mp4"
+  },
+  {
+    "id": 45,
     "title": "Video Title 15",
     "genre": "Nature",
     "description": "This is the description for Video 15. It is a detailed look into topic 15.",

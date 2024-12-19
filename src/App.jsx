@@ -5,10 +5,9 @@ import "./index.css";
 
 const App = () => {
   const [videos, setVideos] = useState([]);
-
   const [searchTerm, setSearchTerm] = useState("");
-
   const [selectedVideo, setSelectedVideo] = useState(null);
+  const [visibleCount, setVisibleCount] = useState(8); 
 
   useEffect(() => {
     fetch("/mock-videos.json")
@@ -18,6 +17,10 @@ const App = () => {
 
   const handleSearch = (e) => {
     setSearchTerm(e.target.value);
+  };
+
+  const handleLoadMore = () => {
+    setVisibleCount((prevCount) => prevCount + 8); 
   };
 
   const filteredVideos = videos.filter(
@@ -45,10 +48,17 @@ const App = () => {
           </header>
 
           {filteredVideos.length > 0 ? (
-            <VideoGrid
-              videos={filteredVideos}
-              onVideoSelect={setSelectedVideo}
-            />
+            <>
+              <VideoGrid
+                videos={filteredVideos.slice(0, visibleCount)} // Show only visible videos
+                onVideoSelect={setSelectedVideo}
+              />
+              {visibleCount < filteredVideos.length && (
+                <div className="load-more">
+                  <button onClick={handleLoadMore}>Load More</button>
+                </div>
+              )}
+            </>
           ) : (
             <div className="no-results">
               <h2>No results found!</h2>
